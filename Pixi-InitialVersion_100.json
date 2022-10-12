@@ -2,7 +2,7 @@
     "swagger": "2.0",
     "info": {
         "description": "Pixi Photo Sharing API Example",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "title": "Pixi-InitialVersion",
         "contact": {
             "email": "nicole.becher@owasp.org"
