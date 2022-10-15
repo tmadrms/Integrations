@@ -1,0 +1,5 @@
+{
+    "openapi.tryit.insecureSslHostnames": [
+        "api-protect.42crunch.cloud"
+    ]
+}
